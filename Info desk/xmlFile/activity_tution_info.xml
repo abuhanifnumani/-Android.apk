@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#99CCFF"
+    tools:context=".tutionInfo">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tuition Fees
+            \n
+Total Fees for Undergraduate program
+\n\n
+Programs\t\t	Total Credit Hour\t\t	Total Fees Payable
+\n
+\tCSE\t\t\t\t\t\t\t\t\t	152\t\t\t\t\t\t\t\t\t\t3,75,800
+\n
+\tBBA\t\t\t\t\t\t\t\t\t 126\t\t\t\t\t\t\t\t\t\t3,58,500
+\n
+\tEnglish\t\t\t\t\t\t\t 124\t\t\t\t\t\t\t\t\t\t2,73,400
+\n
+\tLLB\t\t\t\t\t\t\t\t\t 126\t\t\t\t\t\t\t\t\t\t3,08,100
+\n
+\tArchitecture\t\t\t\t 198\t\t\t\t\t\t\t\t\t\t5,40,600
+\n
+\tCivil Engineering\t 164\t\t\t\t\t\t\t\t\t\t\t4,31,400
+\n
+\tEEE\t\t\t\t\t\t\t\t\t 157\t\t\t\t\t\t\t\t\t4,07,000
+\n
+\tIslamic Studies\t\t 126\t\t\t\t\t\t\t\t\t\t87,600
+\n
+\tBTHM\t\t\t\t\t\t\t\t 126\t\t\t\t\t\t\t\t\t\t3,23,000
+\n\n
+
+Total Fees for Graduate program
+\n
+Programs\t\t	Total Credit Hour\t\t	Total Fees Payable
+\n
+\tMBA\t\t\t\t\t\t\t\t\t	63\t\t\t\t\t\t\t\t\t\t	1,29,800
+\n
+\tEMBA\t\t\t\t\t\t\t\t\t	51\t\t\t\t\t\t\t\t\t	1,06,600
+\n
+\tMA in English(Preliminery)	36\t\t\t\t\t	67,800
+\n
+\tLLM\t\t\t\t\t\t\t\t\t	35\t\t\t\t\t\t\t\t\t\t	77,000
+\n
+\tMA in English(Final)	36\t\t\t\t\t\t\t\t\t	67,800
+\n
+\tMA in Islamic Studies	60\t\t\t\t\t\t\t\t	45,500
+\n
+\tMaster in Public Health (MPH)	60\t\t\t	1,53,000\n\n\n\n
+\t\t\t\t\t More information visit varsity website\n
+\t\t\t\t\t\t\t\t\t\t\t\twww.lus.ac.bd
+
+
+"/>
+
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#df98d2"
+    android:gravity="center"
+    tools:context=".admissionInfo">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/registionInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAllCaps="false"
+            android:text="Admission Requirements:
+            \n
+Admission Requirements for Bachelor’s Degree :
+\n
+For all the Bachelors programs such as B.Sc (Hons.) in CSE, B.Sc. (Hons.) in EEE, B.Sc in Civil Engineering, Bachelor of Architecture, BBA, English,  LL.B (Hons) and Islamic Studies, the following admission requirements must be fulfilled:
+ \n\nUnder national curriculum of Bangladesh:
+\n? Minimum Second division or GPA 2.5 or equivalent grade at each of SSC and HSC or other equivalent public examinations. But in case of GPA 2.0 in any of the above mentioned examinations, the aggregate GPA must be minimum 6.0. For the children of a Freedom fighter, the minimum score of GPA ‘5.0’ must be secured aggregately in S.S.C and H.S.C or any other public examinations.
+\n\n
+Under British Educational Curriculum:
+\n?  ‘O’ level examination 5 subjects and for  ‘A’ level examination 2 subjects must be passed respectively from which at least ‘B’ grade or GPA ‘4’ must be obtained in 4 courses and ‘C’ grade or GPA ‘3.5’ must be obtained in the remaining three subjects out of total 7 courses in both the levels.
+\n?   Students are allowed to get admitted into Undergraduate programs within 4 (four) years of passing the H.S.C or equivalent examinations.
+\n
+\nAdmission Requirements for Master Degree
+\n? For all the Masters programs such as MBA, Executive MBA, M.A. in English, L.L.M and M.A. in Islamic Studies following admission requirements must be fulfilled:
+\n? Fulfill all the above mentioned qualifications for admission into the Undergraduate programs with GPA 2.0 in any Bachelor’s degree.
+\n? Applicants may be selected for Admission into the academic programs on the basis of (a) past Academic attainments and/ or (b) Admission test scores.
+\n? University authority reserves the right to determine the minimum criteria either in compliance with the rules for Admission of UGC or for policy requirement of the university itself.
+\n\n
+Registration Procedure for Students
+\n? Collecting Registration form duly verified by the concerned Department.
+\n? Collecting payment slips from the Accounts office and completing payments through designated Bank
+\n?  Submitting filled in Registration form along with payment receipts to the Admission office.
+\n\nOther Registration Related Regulations:
+\nThe following are some regulations for registration:
+\n?  Registration for a Trimester/ Semester is conducted under an academic calendar. Registration starts immediately preceding the start of classes and late registration continues till the second week of classes of any Trimester/ Semester.
+\n?  Students must complete the registration process before classes begin.
+\n? Tuition fees are payable in advance. A student shall not be enrolled and registration shall not be completed unless all tuition and other fees are paid.
+\n?  Late Registration (as determined by the university authority) may be done after the beginning of classes in a semester on the recommendation of the concerned Head of the Department. A late registration fee shall be charged for that as determined by the university.
+\n?  Pre-requisite courses (if any), must be completed before registering of any particular course. Students are not allowed to register course/s without completion of the prerequisite course/s.
+\n\nReadmission
+L\nU students who do not register for two consecutive Semesters have to submit application for readmission by payment of the requisite readmission fee of the university.
+Cancellation of Admission
+\n\nAdmission of a student may be cancelled by LU authority for under-mentioned reasons:
+\n?  If a student gets involved in any activity that goes against discipline or rules and regulations of the LU.
+\n?  If a student submits fake certificates and / or transcripts at the time of his / her admission.\n\n
+
+\t\t\t\t\t More information visit varsity website\n
+\t\t\t\t\t\t\t\t\t\t\t\t\twww.lus.ac.bd
+
+"
+            android:textSize="15sp"
+            android:textIsSelectable="true"/>
+
+
+    </ScrollView>
+
+</LinearLayout>

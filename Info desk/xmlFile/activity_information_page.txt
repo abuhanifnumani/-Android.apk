@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#d0a5f1"
+    tools:context=".informationPage">
+
+    <ImageView
+        android:layout_width="324dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/lu" />
+
+
+
+    <Button
+        android:id="@+id/admissonInformation"
+        android:layout_width="258dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="#b2b9f7"
+        android:text="Admission Information"
+        android:textAllCaps="false"
+        android:textIsSelectable="true"
+        android:textSize="21sp"
+        />
+
+
+    <Button
+        android:id="@+id/academicInformation"
+        android:layout_width="258dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="#a2a9e2"
+        android:text="Academic Programs"
+        android:textAllCaps="false"
+        android:textIsSelectable="true"
+        android:textSize="21sp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Leading University\n \t\t\t\t\t...a promise to lead"
+        android:textColor="#949699"
+        android:layout_marginTop="40sp"
+        android:layout_marginRight="5dp"
+        android:layout_gravity="right"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        />
+
+
+
+</LinearLayout>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#e7d6e4"
+    android:gravity="center"
+    tools:context=".admissionPage">
+
+    <ImageView
+        android:layout_width="324dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/lu" />
+
+
+
+    <Button
+        android:id="@+id/admissionPolicies"
+        android:layout_width="276dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#efbcf4"
+        android:text="Admission Policies"
+        android:textAllCaps="false"
+        android:textIsSelectable="true"
+        android:textSize="21sp"
+
+        />
+
+
+    <Button
+        android:id="@+id/tutionfees"
+        android:layout_width="276dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="#f0a5f5"
+        android:text="Tution Fees"
+        android:textAllCaps="false"
+        android:textIsSelectable="true"
+        android:textSize="21sp"
+        />
+
+    <Button
+        android:id="@+id/contact"
+        android:layout_width="276dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="#d99eed"
+        android:text="Contact"
+        android:textAllCaps="false"
+        android:textIsSelectable="true"
+        android:textSize="21sp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Leading University\n \t\t\t\t\t...a promise to lead"
+        android:textColor="#949699"
+        android:layout_marginTop="40sp"
+        android:layout_marginRight="5dp"
+        android:layout_gravity="right"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        />
+
+</LinearLayout>

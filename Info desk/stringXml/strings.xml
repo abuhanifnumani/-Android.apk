@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Leading University</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">A.K.M. Tarek Rahman</string>
+    <string name="nav_header_subtitle">akm.tarekrahman@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_update">Update</string>
+    <string name="action_like">Like</string>
+    <string name="location">Leading University
+                    Ragib Nagar, South Surma, Sylhet.
+                    Phone:+880-821-720303-6.
+                    FAX: +88-0821-726376</string>
+    <string name="departmentName">Academic Programs
+        \n\n
+Undergraduate
+        \n
+1.	Bachelor of Science in Computer Science and Engineering
+        \n
+2.	Bachelor of Science in Electrical and Electronic Engineering
+        \n
+3.	Bachelor of Architecture
+        \n
+4.	Bachelor of Civil Engineering
+        \n
+5.	Bachelor of Arts in English
+        \n
+6.	Bachelor of Business Administration
+        \n
+7.	Bachelor of Law
+        \n
+8.	Bachelor of Islamic Studies
+        \n
+9.	Bachelor of Hospitality and Tourism Management
+        \n\n
+Graduate
+        \n
+1.	Master of Business Administration (MBA)
+        \n
+2.	Master of Business Administration Executive Program (EMBA)
+        \n
+3.	MA in English (Preliminary and Final)
+        \n
+4.	LL.M(Final)
+        \n
+5.	Masters of Public Health (MPH)
+        \n
+6.	MA in Islamic Studies\n\n\n\n\n\n
+        \t\t\t\t\t More information visit varsity website\n
+\t\t\t\t\t\t\t\t\t\t\t\t\twww.lus.ac.bd
+
+</string>
+    <string name="contact"> Mr. Md. Kawser Hawlader
+                \n
+                Deputy Registrar (Admission)
+                \n
+                720303-6 (Ext. 112)
+        \n
+                01716-871188
+            \n\n
+                Mr. Shamim Ahmed
+\n
+                Section Officer (Admission)
+\n
+                720303-6 (Ext. 112)
+        \n
+                01911974991
+        \n\n
+                Syeed Sabul Hussain
+        \n
+                Office Assistant
+        \n
+                720303-6 (Ext. 112)
+        \n
+                01712219373
+        \n\n
+                Mst. Sejina Begum
+        \n
+                Office Assistant
+        \n
+                720303-6 (Ext. 112)
+        \n
+                01616162019
+    </string>
+</resources>

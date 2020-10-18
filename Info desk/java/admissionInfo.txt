@@ -1,0 +1,14 @@
+package com.example.akmtarekrahman.navigation;
+
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+
+public class admissionInfo extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_admission_info);
+        getSupportActionBar().setTitle("Admission Policies");
+    }
+}
